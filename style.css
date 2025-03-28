@@ -7,6 +7,32 @@ body {
     padding: 0;
 }
 
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav-button {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+    background-color: #ff5500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-button:hover {
+    background-color: #e44b00;
+    transform: scale(1.1);
+}
+
 .slider {
     background-color: #333;
     padding: 100px 0;
