@@ -99,22 +99,6 @@ header {
     background-color: #e0a800;
 }
 /* This is a comment in CSS */
-.download-mobile-button {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 12px 25px;
-    background-color: #2ecc71;
-    color: white;
-    font-weight: bold;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-}
-
-.download-mobile-button:hover {
-    background-color: #27ae60;
-    transform: scale(1.05);
-}
 
 
 
