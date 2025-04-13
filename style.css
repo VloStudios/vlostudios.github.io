@@ -66,7 +66,7 @@ header {
     background-color: #e44b00;
 }
 
-eduai-button {
+.eduai-button {
     display: inline-block;
     background-color: #28a745;
     color: white;
@@ -82,7 +82,7 @@ eduai-button {
     background-color: #218838;
 }
 
-coloryourname-button {
+.coloryourname-button {
     display: inline-block;
     background-color: #28a745;
     color: white;
