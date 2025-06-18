@@ -94,6 +94,18 @@ header {
     margin-top: 20px;
 }
 
+.vloos-button {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+    margin-top: 20px;
+}
+
 .download-button {
     display: inline-block;
     background-color: #ffc107;
